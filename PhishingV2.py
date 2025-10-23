@@ -10,9 +10,9 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-TOKEN = "7787943253:AAFYQ4JtVoRY-iBJKMvYmq309GZ1TN6FmfI"
-ADMIN_ID = 6837307356  # ប្តូរជា ID អ្នកគ្រប់គ្រងពិត
-BOT_USERNAME = "Sadkjsithbot"  # Telegram Bot username (គ្មាន @)
+TOKEN = "7754960411:AAFZwo_8z147CcdtoVU4o46BAZKecCYMXcQ"
+ADMIN_ID = 7563840532  # ប្តូរជា ID អ្នកគ្រប់គ្រងពិត
+BOT_USERNAME = "Shbsusbsiwbot"  # Telegram Bot username (គ្មាន @)
 
 STARTING_POINTS = 10
 POINTS_DEDUCT_SERVICE = 5
@@ -190,4 +190,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
     
